@@ -1,13 +1,3 @@
-# vanilla-js-template
-Vanilla JS Project template for Modanisa Bootcamp
-
-
-First, you need to ensure that `yarn` installed on your pc.
-
-After that, you can install all dependencies specified package.json with below code
-`yarn install`
-
-After installing dependencies execute `yarn start` and check http://localhost:1234
 
 ## Solutions
 ### Solutions are made using Sandbox.
