@@ -9,10 +9,17 @@ After that, you can install all dependencies specified package.json with below c
 
 After installing dependencies execute `yarn start` and check http://localhost:1234
 
-## Submit structure
-There is a branch for every assigment on GitHub. Before writing the make sure that you
-are on assignment's branch and do not forget to commit and push the changes you make 
-to the remote repository.
+## Solutions
+### Solutions are made using Sandbox.
+
+
+
+| Assignment Number        | Link         | 
+| ------------- |:-------------:| 
+|1 |  [Assignment 1](https://codesandbox.io/s/eager-merkle-wh9kj?file=/src/styles.css&resolutionWidth=825&resolutionHeight=677)|
+
+
+
 
 
 ## Assignment-1 (Login Screen)
