@@ -7,7 +7,7 @@
 | Assignment Number        | Link         | 
 | ------------- |:-------------:| 
 |1 |  [Assignment 1](https://codesandbox.io/s/eager-merkle-wh9kj?file=/src/styles.css&resolutionWidth=825&resolutionHeight=677)|
-
+|2|[Assignment 2](https://codesandbox.io/s/keen-lamport-gy1nw)|
 
 
 
